@@ -1,6 +1,15 @@
 <resources>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
     <string name="app_name">MyAndroid</string>
     <string name="second_tab">Second tab</string>
     <string name="first_tab">First tab</string>
     <string name="third_tab">Third tab</string>
+    <string name="drawer_title">Hello World</string>
+    <string name="header_title">Header</string>
+    <string name="cut">Cut</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="new_text">New</string>
+    <string name="drawer_header">Drawer Header</string>
 </resources>
